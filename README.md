@@ -2,7 +2,7 @@
 Curso de Administración de Servidores Linux
 
 
-#Configuración y guía básica usando Virtualbox
+## Configuración y guía básica usando Virtualbox
 
 * ifconfig: Permite ver las network interfaces
 
