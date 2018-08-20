@@ -125,3 +125,18 @@ La opción a editar es: PasswordAuthentication [no], colocar no; para evitar la 
 
 *"r": Rechazar una acción, haciendo que nunca sea elegida, o cancelar un rechazo.
 
+## Arquitectura
+Una de las cosas más importantes que debemos entender es la estructura de archivos, el directorio raíz es /
+
+###Directorios importantes
+
+* /home, se almacenan los archivos de cada usuario.
+* /lib, almacenas las librerías del sistema.
+* /mnt, cuando montamos en el sistema dispositivos, los podemos ver en esta carpeta.
+* /opt, almacenas los programas instalados de terceros.
+* /root, almacena los archivos del super usuario Root.
+* /sbin, archivos binarios del administrador.
+* /usr, programas instalados por defecto.
+* /var, se utiliza para guardar archivos de logs, backups, servidor web.
+* /etc, archivos de configuración del sistema.
+* /boot, guarda los archivos del arranque del sistema.
