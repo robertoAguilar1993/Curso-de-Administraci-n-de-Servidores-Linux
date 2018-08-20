@@ -128,7 +128,7 @@ La opción a editar es: PasswordAuthentication [no], colocar no; para evitar la 
 ## Arquitectura
 Una de las cosas más importantes que debemos entender es la estructura de archivos, el directorio raíz es /
 
-###Directorios importantes
+### Directorios importantes
 
 * /home, se almacenan los archivos de cada usuario.
 * /lib, almacenas las librerías del sistema.
